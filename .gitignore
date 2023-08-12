@@ -1,0 +1,17 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop generated
+[Aa]ssets/Plugins/Editor/
+[Pp]rojectSettings/
+[Ss]treamingAssets/
+
+# Exclude large files
+*.psd
+*.unitypackage
